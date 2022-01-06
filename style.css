@@ -5,10 +5,10 @@
   :root {
     --cell-size: 100px;
     --mark-size: calc(var(--cell-size) * .9);
-    background-image: url(bg.jpg);
+    /*background-image: url(bg.jpg);
     background-size: 650px 700px ;
     background-repeat: no-repeat;
-    background-position: left center;
+    background-position: left center; */
    
   }
   
@@ -18,13 +18,14 @@
     
   }
   
-  .bground{
+  /*.bground{
     background-image: url(bg1.jpg);
     background-size: 700px;
     background-repeat: no-repeat;
     background-position: center  ;
 
   }
+*/
 
  .head{
    
