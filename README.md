@@ -13,8 +13,11 @@ In this version, there is no provision to undo the move.
 As soon as the move is done, the game proceeds to the next player’s chance
 .
 At each move, The game will show whose move (Player A or Player B) it is. When the game ends, it displays one of the following three outcomes:
+
 Winner: Player X
+
 Winner: Player O
+
 Draw
 
 Live Demo: https://aryansinghiiit.github.io/Stone-Paper-Scissor/
