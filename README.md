@@ -20,4 +20,6 @@ Winner: Player O
 
 Draw
 
-Live Demo: https://aryansinghiiit.github.io/Stone-Paper-Scissor/
+Live Demo: https://aryansinghiiit.github.io/Tic-Tac-Toe-Game/
+![Screenshot (71)](https://user-images.githubusercontent.com/96579866/148728186-e2034347-013b-415e-8505-7ef0f6a61a5b.png)
+![Screenshot (72)](https://user-images.githubusercontent.com/96579866/148728191-0ff0c770-ad3c-48f7-8ba6-01c66fd3798b.png)
